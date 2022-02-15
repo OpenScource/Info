@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T11:25:11.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="FbSAfvQtmDDOlQ4STr7J" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T12:01:16.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="2dsK_Dn_YchXVurWSKyv" version="16.5.6" type="github">
   <diagram id="667e9k_SaELWsFKGwzjt" name="Page-1">
     <mxGraphModel dx="2029" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,17 +28,26 @@
         <mxCell id="5dgpFQyMNd5qrhkOa5W_-30" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5dgpFQyMNd5qrhkOa5W_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5dgpFQyMNd5qrhkOa5W_-31" value="Student Progress info graphs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="940" height="700" as="geometry" />
         </mxCell>
         <mxCell id="5dgpFQyMNd5qrhkOa5W_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="330" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="5dgpFQyMNd5qrhkOa5W_-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5dgpFQyMNd5qrhkOa5W_-33" value="Course Access Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="870" width="940" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5dgpFQyMNd5qrhkOa5W_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="150" width="250" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="5dgpFQyMNd5qrhkOa5W_-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="20" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="5dgpFQyMNd5qrhkOa5W_-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5dgpFQyMNd5qrhkOa5W_-47" value="My Students" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
