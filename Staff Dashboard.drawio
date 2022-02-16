@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T14:23:31.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="eipjE9Q3sF1LR3exuZqk" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T14:26:40.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kNceuxIcpJQJJaBaKWUw" version="16.5.6" type="github">
   <diagram id="667e9k_SaELWsFKGwzjt" name="Page-1">
     <mxGraphModel dx="1720" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y1prdV26iLyGLlld2Yeh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="1650" height="1160" as="geometry" />
+        </mxCell>
         <mxCell id="5dgpFQyMNd5qrhkOa5W_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="1560" height="110" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
         <mxCell id="5dgpFQyMNd5qrhkOa5W_-9" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1030" width="1560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5dgpFQyMNd5qrhkOa5W_-30" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5dgpFQyMNd5qrhkOa5W_-30" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5dgpFQyMNd5qrhkOa5W_-31" value="Student Progress info graphs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
